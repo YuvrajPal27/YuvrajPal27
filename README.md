@@ -1,17 +1,50 @@
-Hi, I'm Yuvraj Pal 👋<br>Front-end dev obsessed with crafting clean, modern, and responsive websites. I love turning designs into polished user experiences and pushing my skills in JS, CSS, and modern frameworks.<br><br>🌱 Currently:<br><br>-> Sharpening my React + TypeScript skills<br><br>-> Working on personal projects to strengthen my portfolio<br><br>💡 What I bring:<br><br>-> Solid foundation in JavaScript, HTML, CSS, React<br><br>-> Quick learner, adapt fast to new tools & workflows<br><br>-> Eager to collaborate, contribute, and grow in a dev team<br><br>📌 Looking for:<br><br>-> Frontend / Web Developer roles (internship or full-time)<br><br>-> Challenging projects where I can learn & add value<br><br>📫 Reach me: yuvi724@gmail.com
+# Hey there, I’m **Yuvraj Pal** 👋  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvrajpal27724/) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YuvrajPal27&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YuvrajPal27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajPal27&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+*Front-end Developer • React / TypeScript • UI/UX Enthusiast*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YuvrajPal27&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me  
+
+I’m Yuvraj — a front-end developer passionate about creating **clean**, **modern**, and **responsive** web experiences.  
+Always curious, always learning, and always building.  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,firebase,git,github,vscode" />
+</p>
+
+---
+
+## 🎯 What I’m Up To  
+
+- Sharpening my skills with React + TypeScript  
+- Exploring modern UI/UX practices  
+- Frontend / Web Developer roles (internship or full-time)  
+  - ➡️ Challenging projects where I can learn & add value  
+  - ➡️ Eager to collaborate, contribute, and grow in a dev team  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/cdb12c1e0a2c4e3c030522926985b0d5f86ff751cb889ed2c7cc897205508ddf/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d59757672616a50616c3237267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="streak stats" />
+</p>
+
+
+
+---
+
+## 📬 Let’s Connect  
+
+- 📧 Email: [Here](mailto:yuvi724@gmail.com)  
+- 🔗 LinkedIn: [Here](https://www.linkedin.com/in/yuvrajpal27724/)  
+- 🖥️ GitHub: [Here](https://github.com/YuvrajPal27)  
+
+---
+
+✨ Thanks for stopping by my profile! Always down to talk tech, collaborate, or just vibe.  
