@@ -41,9 +41,8 @@ Always curious, always learning, and always building.
 
 ## 📬 Let’s Connect  
 
-- 📧 Email: [Here](mailto:yuvi724@gmail.com)  
-- 🔗 LinkedIn: [Here](https://www.linkedin.com/in/yuvrajpal27724/)  
-- 🖥️ GitHub: [Here](https://github.com/YuvrajPal27)  
+- 📧 Email: [yuvi724@gmail.com](mailto:yuvi724@gmail.com)  
+- 🔗 LinkedIn: [Yuvraj Pal](https://www.linkedin.com/in/yuvrajpal27724/)  
 
 ---
 
