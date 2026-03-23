@@ -1,6 +1,6 @@
 # Hey there, I’m **Yuvraj Pal** 👋  
 
-*Front-end Developer • React / TypeScript • UI/UX Enthusiast*
+*Front-end Developer • React •*
 
 ---
 
@@ -21,7 +21,7 @@ Always curious, always learning, and always building.
 
 ## 🎯 What I’m Up To  
 
-- Sharpening my skills with React + TypeScript  
+- Sharpening my skills with React  
 - Exploring modern UI/UX practices  
 - Frontend / Web Developer roles (internship or full-time)  
   - ➡️ Challenging projects where I can learn & add value  
