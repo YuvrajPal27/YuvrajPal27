@@ -14,7 +14,7 @@ Always curious, always learning, and always building.
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase,git,github,vscode" />
 </p>
 
 ---
