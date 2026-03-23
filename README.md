@@ -22,7 +22,6 @@ Always curious, always learning, and always building.
 ## 🎯 What I’m Up To  
 
 - Sharpening my skills with React  
-- Exploring modern UI/UX practices  
 - Frontend / Web Developer roles (internship or full-time)  
   - ➡️ Challenging projects where I can learn & add value  
   - ➡️ Eager to collaborate, contribute, and grow in a dev team  
